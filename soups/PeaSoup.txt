@@ -1,4 +1,4 @@
-Pea Soup
+    Pea Soup
 
 INGREDIENTS
 Peas
@@ -8,9 +8,9 @@ Tobasco sauce
 
 
 DIRECTIONS
-Smash the peas
-Put the peas in a 2 quart pot
-Add the water
+1. Smash the peas
+2. Put the peas in a 2 quart pot
+3. Add the water
 Add 1 tsp salt
 Add 1 tsp pepper
 Bring to boil and simmer for 1 hour
